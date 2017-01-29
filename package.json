@@ -1,0 +1,31 @@
+{
+    "author": "meena.star@hotmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "deltahacks3",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "health"
+        ],
+        "displayName": "DeltaHacks3",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "03417f09-b496-4e6d-81e4-a919f8a47c7b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
